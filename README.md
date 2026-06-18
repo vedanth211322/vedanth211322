@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vedanth</h1>
+<h3 align="center">AI & Data Science Student | Aspiring Software Engineer</h3>
 
-<!--
-**vedanth211322/vedanth211322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently Learning:
+- Data Structures & Algorithms
+- Machine Learning
+- Full Stack Development
 
-Here are some ideas to get you started:
+🎓 B.Tech in Artificial Intelligence & Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Projects:
+- Smart Grocery Shopping Assistant
+- Nursery Management System
+- Lifeline Healthcare System
+
+🛠️ Skills:
+Python | Java | C | SQL | HTML | CSS | JavaScript
+
+📫 Reach Me:
+your-email@gmail.com
+
+⚡ Goal:
+To become a Software Engineer and AI Engineer.
