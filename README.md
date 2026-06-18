@@ -17,7 +17,7 @@
 Python | Java | C | SQL | HTML | CSS | JavaScript
 
 📫 Reach Me:
-your-email@gmail.com
+vedanthsamarthi89@gmail.com
 
 ⚡ Goal:
 To become a Software Engineer and AI Engineer.
