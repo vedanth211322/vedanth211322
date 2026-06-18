@@ -21,6 +21,9 @@ vedanthsamarthi89@gmail.com
 
 ⚡ Goal:
 To become a Software Engineer and AI Engineer.
+
+
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
