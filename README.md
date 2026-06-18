@@ -1,26 +1,8 @@
-<h1 align="center">Hi 👋, I'm Vedanth</h1>
-<h3 align="center">AI & Data Science Student | Aspiring Software Engineer</h3>
+👋 Hello, I'm Vedanth
 
-🌱 Currently Learning:
-- Data Structures & Algorithms
-- Machine Learning
-- Full Stack Development
+🚀 AI & Data Science Student | Python Developer | Machine Learning Enthusiast
 
-🎓 B.Tech in Artificial Intelligence & Data Science
-
-💻 Projects:
-- Smart Grocery Shopping Assistant
-- Nursery Management System
-- Lifeline Healthcare System
-
-🛠️ Skills:
-Python | Java | C | SQL | HTML | CSS | JavaScript
-
-📫 Reach Me:
-vedanthsamarthi89@gmail.com
-
-⚡ Goal:
-To become a Software Engineer and AI Engineer.
+Passionate about building intelligent solutions using Machine Learning, Data Analytics, and Full-Stack Development. Experienced in Python, Java, Flask, MySQL, MongoDB, and AI-driven projects such as Smart Grocery Assistant and Healthcare Management Systems.
 
 
 
